@@ -1,19 +1,19 @@
 // Public IP Output
 output "public_ip" {
-  default = 
+  value = 
 }
 
 // Private IP Output
 output "private_ip" {
-  default = 
+  value = 
 }
 
 // VM Name Output
 output "vm_name" {
-  default = 
+  value = 
 }
 
 // Admin User Output
 output "admin_user" {
-  default = 
+  value = 
 }
